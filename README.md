@@ -1,4 +1,4 @@
-# TFG: Simulación aeroacústica de alta fidelidad mediante CFD (PyFR)
+# TFG: Simulación aerodinámica de instrumentos musicales tipo flauta mediante CFD con PyFR
 
 Este repositorio contiene los archivos fuente y scripts de análisis desarrollados para mi Trabajo de Fin de Grado, centrado en el estudio del comportamiento aerodinámico y aeroacústico en régimen de bajo número de Mach.
 
